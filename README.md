@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+Languages and Tools:<br>
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
