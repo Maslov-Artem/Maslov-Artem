@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="70" height="50"/></a>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="80" height="45"/></a>
 <a href="https://pandas.pydata.org/docs/user_guide/10min.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="70" height="50"/></a>
 <a href="https://numpy.org/doc/stable/user/absolute_beginners.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="70" height="50"/></a>
 <a href="https://pytorch.org/tutorials/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" width="70" height="50"/></a>
