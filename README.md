@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maslov-artem&label=Profile%20views&color=0e75b6&style=flat" alt="maslov-artem" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/galka_mt" target="_blank">
+<a href="https://t.me/Maslov_Artem94" target="_blank">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="The Unlimited" width="120"/>
 </a>
 <p align="left">
