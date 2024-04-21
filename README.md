@@ -11,7 +11,10 @@
 </p>
 
 ### Languages and Tools:<br>
-[https://www.python.org/](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="40" height="40"/></a>
+</p>
+![https://www.python.org/](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![https://pandas.pydata.org/docs/user_guide/10min.html](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![https://numpy.org/doc/stable/user/absolute_beginners.html](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
 ![https://pytorch.org/tutorials/](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
